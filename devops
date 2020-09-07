@@ -1,0 +1,30 @@
+Pricing and Free Tier
+
+Basic AWS Account is free 
+	you pay for resources only
+
+3 types of free resource
+Always free products
+12 months free products
+Trials
+
+Most resources are free for web
+EC2 t2.micro or t3.micro - 750 hours per month of linux, RHEL, or SLES
+Amazon S3 5GB of standard storage
+Amazon RDS - 750 Hours per month of db.t2.micro database usage
+CodeCommit - 5 active users per month with 50GB per month
+CodeBuild - 100 build minutes
+CodePipeline - 1 active pipeline per month
+ECR - 500MB of Storage
+
+Optional, NOT free 
+Domain Registration, NAT Devices.
+Domain: ~10$ per year
+NAT device: ~$0.052/hour => ~$40/month
+you can skip these items if necessary
+
+What is DevOps Definition
+DevOps is a set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the system development life cycle and provide continuous delivery with high software quality
+
+DevOps is often viewed as an approach to applying systems administrations work to cloud tech
+
